@@ -1,0 +1,27 @@
+circle {
+  fill: white;
+}
+
+p {
+  background-color: blue;
+  color: white;
+  font-size: 30pt;
+}
+
+#first {
+  color: red;
+}
+
+#second {
+  color: pink;
+}
+
+.middle2 {
+  color: yellow;
+}
+
+#second {
+  color: yellow;
+}
+
+
